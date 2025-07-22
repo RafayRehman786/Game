@@ -60,3 +60,32 @@ display: inline;
 padding: 1rem;
 border-radius: 1rem;
 }
+@media (max-width:768px){
+    #msg {
+  
+    font-size: 20px;
+    }
+    body{
+        background-color: #39A697;
+    }
+
+    #user-score, #comp-score {
+    font-size: 50px;
+}.msg-container {
+    margin-top: 4rem;
+}
+.choices {
+    gap: 0px;
+    margin-top: 40px;
+}
+
+
+.score-board{
+margin-top: 0px;
+}
+.msg-container {
+    padding-bottom: 40px;
+}
+}
+    
+
