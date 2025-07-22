@@ -65,9 +65,7 @@ border-radius: 1rem;
   
     font-size: 20px;
     }
-    body{
-        background-color: #39A697;
-    }
+  
 
     #user-score, #comp-score {
     font-size: 50px;
@@ -78,7 +76,6 @@ border-radius: 1rem;
     gap: 0px;
     margin-top: 40px;
 }
-
 
 .score-board{
 margin-top: 0px;
